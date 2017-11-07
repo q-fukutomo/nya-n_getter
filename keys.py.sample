@@ -1,0 +1,8 @@
+# TODO それぞれ適切な値を入れてkeys.pyにリネーム
+
+# キーを取得したアプリの名前
+APP_NAME = "hoge"
+
+# Keys and Access Tokensのタブで確認できる
+CONSUMER_KEY = "fuga"
+CONSUMER_SECRET = "piyo"
